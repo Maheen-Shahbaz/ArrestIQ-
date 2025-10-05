@@ -53,6 +53,9 @@ Jupyter Notebook
 🧠 Applications 
 
 Social Data Analysis
+
 Government Research & Policy Insights
+
 Predictive Modelling
+
 Data Science Education
